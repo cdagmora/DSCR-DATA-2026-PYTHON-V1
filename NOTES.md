@@ -13,3 +13,8 @@ Actividades pendientes
 -Análisis tecnico 
     -Definir las librerias y herramientas
     -Definir la estructura de archivos del proyecto
+
+-Fases del proceso OSINT 
+    -Recolección
+    -Procesamiento
+    -Análisis 
