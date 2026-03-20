@@ -1,8 +1,3 @@
----
-title: Análisis de Datos Proyectado 2026
-author: Tu Nombre
----
-
 <h1 align="center">Análisis teórico</h1>
 
 Link para editar este documento: [https://typst.app/project/wadZLqZ2Wyx9vA0W1AVCmk](https://typst.app/project/wadZLqZ2Wyx9vA0W1AVCmk)
